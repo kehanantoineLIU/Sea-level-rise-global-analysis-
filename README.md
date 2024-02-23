@@ -5,6 +5,9 @@ The project aims to assess and predict sea level rise by analyzing sea surface h
 1.Projected global sea level rise  
 2.Plotting the local slopes of different SSH time series around the globe
 
+## dara source
+1. data get from Google Cloud Platform (GCP)
+2. CMIP6
 ## algoritheme
 1. main model is LinearRegression
 2. compute the incertainty of our predictions as a function of time
